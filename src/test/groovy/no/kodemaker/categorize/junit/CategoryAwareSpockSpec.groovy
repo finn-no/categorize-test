@@ -6,7 +6,6 @@ import no.kodemaker.categorize.spock.CategorizableSpecification
 import spock.lang.Ignore
 
 
-@Ignore
 class CategoryAwareSpockSpec extends CategorizableSpecification {
 
     def setupSpec(){
